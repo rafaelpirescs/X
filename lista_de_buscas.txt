@@ -1,0 +1,5 @@
+(tse OR stf OR camara OR senado OR congresso OR governo)
+(urna OR voto) (eletronica OR eletronico OR impresso OR auditavel)
+(debate OR pesquisa) (eleitoral OR eleicoes)
+(eleicao OR eleicoes OR votacao) (manipulada OR fraude OR irregularidade)
+(lula OR bolsonaro OR "alexandre de moraes")
